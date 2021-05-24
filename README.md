@@ -13,7 +13,11 @@ $ source ./unipa-API-venv/bin/activate
 ```
 unipa-API-venv $ pip install -r requirements.txt
 ```
-### 4. Exit from virtual environment
+### 4. Install Universal-Passport scraping library
+```
+unipa-API-venv $ pip install git+https://github.com/y-yana/unipa-scraping-lib
+```
+### 5. Exit from virtual environment
 ```
 unipa-API-venv $ deactivate
 ```
