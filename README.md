@@ -11,7 +11,7 @@ $ source ./unipa-API-venv/bin/activate
 ```
 ### 3. Install required package list
 ```
-unipa-API-venv $ pip install -r requirements.txt
+unipa-API-venv $ sh ./install.sh
 ```
 ### 4. Exit from virtual environment
 ```
