@@ -17,6 +17,7 @@ pytz==2021.1
 PyYAML==5.4.1
 requests==2.25.1
 schedule==1.1.0
+scraping==1.7
 selenium==3.141.0
 six==1.15.0
 soupsieve==2.2.1
