@@ -16,6 +16,11 @@ class User(BaseModel):
     show_chrome:  Optional[bool] = None
 
 
+@app.get('/')
+def hello_world():
+    return 'Hello World!'
+
+
 # シンプルなJSON Bodyの受け取り
 @app.post("/user/")
 def create_user(user: User):
