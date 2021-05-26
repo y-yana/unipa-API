@@ -5,6 +5,7 @@ chardet==4.0.0
 chromedriver-binary==90.0.4430.24.0
 click==7.1.2
 fastapi==0.65.1
+gunicorn==20.1.0
 h11==0.12.0
 httptools==0.1.2
 idna==2.10
@@ -17,6 +18,7 @@ pytz==2021.1
 PyYAML==5.4.1
 requests==2.25.1
 schedule==1.1.0
+scraping==1.7
 selenium==3.141.0
 six==1.15.0
 soupsieve==2.2.1
